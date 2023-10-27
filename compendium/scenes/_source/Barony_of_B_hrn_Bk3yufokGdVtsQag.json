@@ -1,0 +1,87 @@
+{
+  "name": "Barony of Böhrn",
+  "navigation": false,
+  "navOrder": 0,
+  "navName": "",
+  "thumb": "modules/wfrp4e-core/assets/scenes/Bk3yufokGdVtsQag-thumb.webp",
+  "width": 4914,
+  "height": 2772,
+  "padding": 0.25,
+  "initial": {
+    "x": 4137,
+    "y": 1923,
+    "scale": 0.45
+  },
+  "backgroundColor": "#000000",
+  "grid": {
+    "size": 100,
+    "type": 1,
+    "color": "#000000",
+    "alpha": 0,
+    "distance": 2,
+    "units": "yd"
+  },
+  "tokenVision": false,
+  "fogExploration": true,
+  "fogReset": 1625694027651,
+  "globalLight": true,
+  "globalLightThreshold": null,
+  "darkness": 0,
+  "drawings": [],
+  "tokens": [],
+  "lights": [],
+  "notes": [],
+  "sounds": [],
+  "templates": [],
+  "tiles": [],
+  "walls": [],
+  "playlist": null,
+  "playlistSound": null,
+  "journal": "mvrKNp7QtA1guLsT",
+  "weather": "",
+  "flags": {
+    "core": {
+      "sourceId": "Scene.zlb2MXPMOv2AOpGg"
+    },
+    "wfrp4e": {
+      "scene-note": "The Reikland Estates"
+    },
+    "wfrp4e-core": {
+      "scene-note": "Barony of Böhrn",
+      "sort": 100000,
+      "initialization-folder": "Core Rulebook"
+    }
+  },
+  "background": {
+    "src": "modules/wfrp4e-core/maps/barony-of-bohrn.webp",
+    "offsetX": 0,
+    "offsetY": 0,
+    "scaleX": 1,
+    "scaleY": 1,
+    "rotation": 0,
+    "tint": null
+  },
+  "foreground": null,
+  "foregroundElevation": null,
+  "fogOverlay": null,
+  "fogExploredColor": null,
+  "fogUnexploredColor": null,
+  "journalEntryPage": null,
+  "_stats": {
+    "systemId": "wfrp4e",
+    "systemVersion": "7.0.0",
+    "coreVersion": "11.307",
+    "createdTime": 1663565801252,
+    "modifiedTime": 1693273561519,
+    "lastModifiedBy": "sAiwDCZFd21tgaDN"
+  },
+  "_id": "Bk3yufokGdVtsQag",
+  "active": false,
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "FIIsUxJ6xGvEDRPV": 3
+  },
+  "_key": "!scenes!Bk3yufokGdVtsQag"
+}
