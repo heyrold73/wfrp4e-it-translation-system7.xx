@@ -1149,7 +1149,7 @@ var trappings = {
 Hooks.once('init', () => {
 	if (typeof Babele !== 'undefined') {
 		Babele.get().register({
-			module: 'wfrp4e-it-translation',
+			module: 'wfrp4e-it-translation-system7xx',
 			lang: 'it',
 			dir: 'compendium',
 		});
