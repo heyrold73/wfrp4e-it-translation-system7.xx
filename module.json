@@ -3,7 +3,7 @@
   "name": "wfrp4e-it-translation-system7xx",
   "title": "WFRP4e Italian Translation-system7xx",
   "description": "Add Italian language to the Warhammer Fantasy Roleplay 4th edition System 7.0.2 for FoundryVTT V11 Stable 308",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "compatibility": {
     "minimum": 11,
     "verified": "11.308"
@@ -66,6 +66,14 @@
       "type": "JournalEntry",
       "system": "wfrp4e",
       "banner": "./modules/wfrp4e-core/assets/banners/coachman.webp"
+    },
+    {
+      "name": "tables",
+      "label": "Tabelle (Manuale Base)",
+      "path": "./compendium/tables",
+      "type": "RollTable",
+      "system": "wfrp4e",
+      "banner": "./modules/wfrp4e-core/assets/banners/reikland-council.webp"
     },
     {
       "name": "scenes",
