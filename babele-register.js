@@ -64,6 +64,7 @@ var skills = {
 	'Etiquette (Any)': 'Etichetta (Qualsiasi)',
 	Evaluate: 'Valutare',
 	Gamble: "Giocare d'Azzardo",
+	Gamble: "Giocare d’Azzardo",
 	Gossip: 'Pettegolezzi',
 	Haggle: 'Mercanteggiare',
 	Heal: 'Guarire',
