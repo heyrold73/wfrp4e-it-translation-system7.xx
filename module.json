@@ -2,11 +2,11 @@
   "id": "wfrp4e-it-translation-system7xx",
   "name": "wfrp4e-it-translation-system7xx",
   "title": "WFRP4e Italian Translation-system7xx",
-  "description": "Add Italian language to the Warhammer Fantasy Roleplay 4th edition System 7.0.2 for FoundryVTT V11 Stable 308",
-  "version": "1.0.9",
+  "description": "Add Italian language to the Warhammer Fantasy Roleplay 4th edition System 7.2.4 for FoundryVTT V11 Stable 315",
+  "version": "1.1.0",
   "compatibility": {
     "minimum": 11,
-    "verified": "11.308"
+    "verified": "11.315"
   },
   "relationships": {
     "systems": [
