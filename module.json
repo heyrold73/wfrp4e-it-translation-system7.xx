@@ -3,7 +3,7 @@
   "name": "wfrp4e-it-translation-system7xx",
   "title": "WFRP4e Italian Translation-system7xx",
   "description": "Aggiunto la lingua Italiana a Warhammer Fantasy Roleplay 4th edizione System 7.2.4 per FoundryVTT V11 Stable 315",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "compatibility": {
     "minimum": 11,
     "verified": "11.315"
@@ -84,7 +84,14 @@
       "banner": "./modules/wfrp4e-core/assets/banners/bridge.webp"
     }
   ],
-
+  "packFolders": [
+    {
+      "name": "Manuale Base",
+      "sorting": "m",
+      "color": "#465967",
+      "packs": ["actors", "items", "journals", "tables", "scenes"]
+    }
+  ],
   "languages": [
     {
       "lang": "it",
