@@ -1,0 +1,8 @@
+2025/01/20-21:25:49.954 1774 Recovering log #35
+2025/01/20-21:25:49.970 1774 Delete type=0 #35
+2025/01/20-21:25:49.971 1774 Delete type=3 #33
+2025/01/20-21:34:24.826 63b0 Level-0 table #40: started
+2025/01/20-21:34:24.826 63b0 Level-0 table #40: 0 bytes OK
+2025/01/20-21:34:24.829 63b0 Delete type=0 #38
+2025/01/20-21:34:24.839 63b0 Manual compaction at level-0 from '!scenes!Bk3yufokGdVtsQag' @ 72057594037927935 : 1 .. '!scenes.notes!vGrxlojYtdObKLF6.zeEAiYH32vAIrLRa' @ 0 : 0; will stop at (end)
+2025/01/20-21:34:24.844 63b0 Manual compaction at level-1 from '!scenes!Bk3yufokGdVtsQag' @ 72057594037927935 : 1 .. '!scenes.notes!vGrxlojYtdObKLF6.zeEAiYH32vAIrLRa' @ 0 : 0; will stop at (end)
